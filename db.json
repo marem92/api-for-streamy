@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "Awesome stream",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "Some stream",
+      "id": 2
+    },
+    {
+      "title": "I change this stream",
+      "description": "my stream is canged",
+      "id": 3
+    },
+    {
+      "title": "changed stream with patch",
+      "description": "description",
+      "userId": "114478120543556869313",
+      "id": 4
+    },
+    {
+      "title": "Test after Component Reuse",
+      "description": "Refactoring components",
+      "userId": "114478120543556869313",
+      "id": 5
+    }
+  ]
+}
